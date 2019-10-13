@@ -1,0 +1,5 @@
+sogou\pokemon.class
+sogou\AMain.class
+sogou\AMapper.class
+sogou\APartitioner.class
+sogou\AReducer.class
